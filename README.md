@@ -19,7 +19,7 @@
 > pkg install nodejs && pkg install git
 > termux-setup-storage
 > git clone https://github.com/ITSMAZGH/SkinPack
-> cp -r SkinPack /$HOME/storage/shared/games/com.mojang/skin_packs
+> cd SkinPack && cp -r §l§fBuildTheCraft.zip /$HOME/storage/shared/games/com.mojang/skin_packs
 ```
 
 # LIST SKIN
